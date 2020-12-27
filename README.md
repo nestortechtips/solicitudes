@@ -1,4 +1,4 @@
-![Nestor Tech Tips](https://nestortechtips.online/wp-content/uploads/2020/10/cropped-default-2-1.png)
+![Nestor Tech Tips](https://storage.googleapis.com/nestortechtips.online/cover.png)
 # Repositorio donde podrás solicitar publicaciones de un tema en específico
 
 Para solicitar que se publique contenido de un tema en particular en el blog puedes crear un *Issue* en Github con el siguiente formato:
